@@ -2,201 +2,201 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Merox.dev - IT Blog &amp; Documentation on </title>
-    <link>https://mer0x.github.io/blog/</link>
+    <link>https://mer0x.github.io/archived/</link>
     <description>Recent content in Merox.dev - IT Blog &amp; Documentation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@merox.dev (Robert Melcher)</managingEditor>
     <webMaster>hello@merox.dev (Robert Melcher)</webMaster>
     <copyright>© 2025 Robert Melcher</copyright>
-    <atom:link href="https://mer0x.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mer0x.github.io/archived/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>From Basic Skills to Networking Specialist: My CCNA Journey</title>
-      <link>https://mer0x.github.io/blog/blog/ccna-career-boost/</link>
+      <link>https://mer0x.github.io/archived/blog/ccna-career-boost/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0300</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/ccna-career-boost/</guid>
+      <guid>https://mer0x.github.io/archived/blog/ccna-career-boost/</guid>
       <description>One year into my IT career, I decided to pursue the CCNA certification. Discover the reasons behind this choice and how it paved the way to my first role in cybersecurity.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/ccna-career-boost/featured-ccna.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/ccna-career-boost/featured-ccna.webp" />
     </item>
     
     <item>
       <title>Ultimate Dual Boot Guide: Windows 11 and Ubuntu 25.04</title>
-      <link>https://mer0x.github.io/blog/blog/windows-11-ubuntu-25-04-dual-boot-guide/</link>
+      <link>https://mer0x.github.io/archived/blog/windows-11-ubuntu-25-04-dual-boot-guide/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/windows-11-ubuntu-25-04-dual-boot-guide/</guid>
+      <guid>https://mer0x.github.io/archived/blog/windows-11-ubuntu-25-04-dual-boot-guide/</guid>
       <description>Complete step-by-step guide for installing and configuring a dual boot system with Windows 11 and Ubuntu 25.04, perfect for beginners and advanced users alike.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/windows-11-ubuntu-25-04-dual-boot-guide/featured-wug.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/windows-11-ubuntu-25-04-dual-boot-guide/featured-wug.webp" />
     </item>
     
     <item>
       <title>From WordPress to Hugo: My Setup Explained</title>
-      <link>https://mer0x.github.io/blog/blog/wordpress-to-hugo-setup/</link>
+      <link>https://mer0x.github.io/archived/blog/wordpress-to-hugo-setup/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/wordpress-to-hugo-setup/</guid>
+      <guid>https://mer0x.github.io/archived/blog/wordpress-to-hugo-setup/</guid>
       <description>Why I migrated from WordPress to Hugo, pros and cons of both platforms, and a detailed look into how my website runs today using GitHub Actions, GitHub Pages, and Cloudflare.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/wordpress-to-hugo-setup/featured-hugo-vs-wordpress.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/wordpress-to-hugo-setup/featured-hugo-vs-wordpress.webp" />
     </item>
     
     <item>
       <title>Inside Google&#39;s Offices: A Tour of Innovation and Comfort</title>
-      <link>https://mer0x.github.io/blog/blog/google-hub-visit/</link>
+      <link>https://mer0x.github.io/archived/blog/google-hub-visit/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/google-hub-visit/</guid>
+      <guid>https://mer0x.github.io/archived/blog/google-hub-visit/</guid>
       <description>During my business trip to Warsaw, I had the unique opportunity to visit Google&amp;rsquo;s impressive offices. Here&amp;rsquo;s an inside look at their workspace, from panoramic views to relaxation zones.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/google-hub-visit/featured-googlee.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/google-hub-visit/featured-googlee.webp" />
     </item>
     
     <item>
       <title>Disaster Recovery Guide: My Approach to Safeguarding Critical Data</title>
-      <link>https://mer0x.github.io/blog/blog/3-2-1-backup-strategy/</link>
+      <link>https://mer0x.github.io/archived/blog/3-2-1-backup-strategy/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/3-2-1-backup-strategy/</guid>
+      <guid>https://mer0x.github.io/archived/blog/3-2-1-backup-strategy/</guid>
       <description>In today’s digital landscape, data loss can be catastrophic whether you’re running a sophisticated homelab or managing IT for an organization of any size.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/3-2-1-backup-strategy/featured-drr.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/3-2-1-backup-strategy/featured-drr.webp" />
     </item>
     
     <item>
       <title>How to Set Up a K3S Cluster in 2025</title>
-      <link>https://mer0x.github.io/blog/blog/k3s-cluster-in-2025/</link>
+      <link>https://mer0x.github.io/archived/blog/k3s-cluster-in-2025/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/k3s-cluster-in-2025/</guid>
+      <guid>https://mer0x.github.io/archived/blog/k3s-cluster-in-2025/</guid>
       <description>Discover how I rebuilt my K3s cluster using Ansible, optimized my Kubernetes setup, and automated deployments for a more efficient and scalable homelab.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/k3s-cluster-in-2025/featured-k3s.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/k3s-cluster-in-2025/featured-k3s.webp" />
     </item>
     
     <item>
       <title>Homelab as Code: Packer &#43; Terraform &#43; Ansible</title>
-      <link>https://mer0x.github.io/blog/blog/homelab-as-code/</link>
+      <link>https://mer0x.github.io/archived/blog/homelab-as-code/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/homelab-as-code/</guid>
+      <guid>https://mer0x.github.io/archived/blog/homelab-as-code/</guid>
       <description>Explore the evolution of a homelab, from its humble beginnings to a fully automated infrastructure. Learn how to implement cutting-edge tools and techniques for IT experimentation and skill-building.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/homelab-as-code/featured-homelabascode.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/homelab-as-code/featured-homelabascode.webp" />
     </item>
     
     <item>
       <title>Laboratory Evolution: How It All Started</title>
-      <link>https://mer0x.github.io/blog/blog/homelab-evolution/</link>
+      <link>https://mer0x.github.io/archived/blog/homelab-evolution/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/homelab-evolution/</guid>
+      <guid>https://mer0x.github.io/archived/blog/homelab-evolution/</guid>
       <description>A thorough examination of how a homelab setup has changed over time, from early builds to the infrastructure that exists now. Discover how practical experimenting in a home lab can improve IT abilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/homelab-evolution/featured-beginning.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/homelab-evolution/featured-beginning.webp" />
     </item>
     
     <item>
       <title>My First Steps in IT Career</title>
-      <link>https://mer0x.github.io/blog/blog/first-steps-in-it-career/</link>
+      <link>https://mer0x.github.io/archived/blog/first-steps-in-it-career/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/first-steps-in-it-career/</guid>
+      <guid>https://mer0x.github.io/archived/blog/first-steps-in-it-career/</guid>
       <description>This marks the beginning of my journey into the IT industry. At that time, I was 20 years old and in my second year of a Computer Science program&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/first-steps-in-it-career/featured-itjourney.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/first-steps-in-it-career/featured-itjourney.webp" />
     </item>
     
     <item>
       <title>Homelab</title>
-      <link>https://mer0x.github.io/blog/laboratory/</link>
+      <link>https://mer0x.github.io/archived/laboratory/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/laboratory/</guid>
+      <guid>https://mer0x.github.io/archived/laboratory/</guid>
       <description>Homelab, the most ambitious and challenging project I’ve ever undertaken</description>
       
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://mer0x.github.io/blog/resume/</link>
+      <link>https://mer0x.github.io/archived/resume/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/resume/</guid>
+      <guid>https://mer0x.github.io/archived/resume/</guid>
       <description>Explore Robert Melcher (Merox&amp;rsquo;s) professional journey in IT, showcasing extensive experience in web development, server management, and hosting services. Discover skills, projects, and milestones that highlight a dedicated and diverse career in technology.</description>
       
     </item>
     
     <item>
       <title>Websites Portofolio</title>
-      <link>https://mer0x.github.io/blog/websites/</link>
+      <link>https://mer0x.github.io/archived/websites/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/websites/</guid>
+      <guid>https://mer0x.github.io/archived/websites/</guid>
       <description>Discover Merox&amp;rsquo;s portfolio of website projects, developed with expertise in platforms like WordPress, Joomla, Hugo, and MkDocs. Each project highlights a commitment to secure, efficient, and user-centered web solutions tailored to diverse client needs.</description>
       
     </item>
     
     <item>
       <title>Smart Home Journey</title>
-      <link>https://mer0x.github.io/blog/blog/smarthome-journey/</link>
+      <link>https://mer0x.github.io/archived/blog/smarthome-journey/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/smarthome-journey/</guid>
+      <guid>https://mer0x.github.io/archived/blog/smarthome-journey/</guid>
       <description>What started as a simple wish to control lights using my phone quickly turned into a fully integrated smart home setup&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/smarthome-journey/featured-sl.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/smarthome-journey/featured-sl.webp" />
     </item>
     
     <item>
       <title>How to Set Up Your Own AI at Home</title>
-      <link>https://mer0x.github.io/blog/blog/run-ai-at-home/</link>
+      <link>https://mer0x.github.io/archived/blog/run-ai-at-home/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/run-ai-at-home/</guid>
+      <guid>https://mer0x.github.io/archived/blog/run-ai-at-home/</guid>
       <description>In this article, I will go over how I set these tools up on my server as well as their configurations. The difficulties that were there , the solutions I found and useful tips&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/run-ai-at-home/featured-ai.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/run-ai-at-home/featured-ai.webp" />
     </item>
     
     <item>
       <title>Setting Up Dell R720 Server in the Home Lab</title>
-      <link>https://mer0x.github.io/blog/blog/dell-r720/</link>
+      <link>https://mer0x.github.io/archived/blog/dell-r720/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/dell-r720/</guid>
+      <guid>https://mer0x.github.io/archived/blog/dell-r720/</guid>
       <description>I recently stumbled upon an incredible deal for the Dell PowerEdge R720 server. This powerhouse boasts impressive specifications&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/dell-r720/featured-hs.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/dell-r720/featured-hs.webp" />
     </item>
     
     <item>
       <title>Who&#39;s Merox?</title>
-      <link>https://mer0x.github.io/blog/about/</link>
+      <link>https://mer0x.github.io/archived/about/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/about/</guid>
+      <guid>https://mer0x.github.io/archived/about/</guid>
       <description>Seasoned System Administrator and Cybersecurity Engineer, with a profound passion for Linux, Networking, and Security.</description>
       
     </item>
     
     <item>
       <title>Tailscale site-to-site pfSense - Linux</title>
-      <link>https://mer0x.github.io/blog/blog/tailscale-site-to-site/</link>
+      <link>https://mer0x.github.io/archived/blog/tailscale-site-to-site/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/tailscale-site-to-site/</guid>
+      <guid>https://mer0x.github.io/archived/blog/tailscale-site-to-site/</guid>
       <description>I&amp;rsquo;ve decided to implement monitoring for my homelab through a cloud virtual machine. As cloud provider I&amp;rsquo;ve opted for Hetzner&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/tailscale-site-to-site/featured-sts.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/tailscale-site-to-site/featured-sts.webp" />
     </item>
     
     <item>
       <title>Deploying a Kubernetes-Based Media Server</title>
-      <link>https://mer0x.github.io/blog/blog/kubernetes-media-server/</link>
+      <link>https://mer0x.github.io/archived/blog/kubernetes-media-server/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/kubernetes-media-server/</guid>
+      <guid>https://mer0x.github.io/archived/blog/kubernetes-media-server/</guid>
       <description>For a long time, I&amp;rsquo;ve been on the hunt for a comprehensive and well-crafted tutorial to deploy a media server on my Kubernetes cluster.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/kubernetes-media-server/featured-k8smedia.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/kubernetes-media-server/featured-k8smedia.webp" />
     </item>
     
     <item>
       <title></title>
-      <link>https://mer0x.github.io/blog/privacy/</link>
+      <link>https://mer0x.github.io/archived/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/privacy/</guid>
+      <guid>https://mer0x.github.io/archived/privacy/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Privacy Policy 
     &lt;div id=&#34;privacy-policy&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -208,10 +208,10 @@
     
     <item>
       <title></title>
-      <link>https://mer0x.github.io/blog/terms-and-conditions/</link>
+      <link>https://mer0x.github.io/archived/terms-and-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/terms-and-conditions/</guid>
+      <guid>https://mer0x.github.io/archived/terms-and-conditions/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Terms and Conditions 
     &lt;div id=&#34;terms-and-conditions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

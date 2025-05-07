@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on </title>
-    <link>https://mer0x.github.io/blog/series/</link>
+    <link>https://mer0x.github.io/archived/series/</link>
     <description>Recent content in Series on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@merox.dev (Robert Melcher)</managingEditor>
     <webMaster>hello@merox.dev (Robert Melcher)</webMaster>
     <copyright>© 2025 Robert Melcher</copyright>
-    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0300</lastBuildDate><atom:link href="https://mer0x.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0300</lastBuildDate><atom:link href="https://mer0x.github.io/archived/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Career</title>
-      <link>https://mer0x.github.io/blog/series/career/</link>
+      <link>https://mer0x.github.io/archived/series/career/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0300</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/series/career/</guid>
+      <guid>https://mer0x.github.io/archived/series/career/</guid>
       <description></description>
       
     </item>

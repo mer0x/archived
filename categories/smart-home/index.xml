@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smart Home on </title>
-    <link>https://mer0x.github.io/blog/categories/smart-home/</link>
+    <link>https://mer0x.github.io/archived/categories/smart-home/</link>
     <description>Recent content in Smart Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@merox.dev (Robert Melcher)</managingEditor>
     <webMaster>hello@merox.dev (Robert Melcher)</webMaster>
     <copyright>© 2025 Robert Melcher</copyright>
-    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mer0x.github.io/blog/categories/smart-home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mer0x.github.io/archived/categories/smart-home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Smart Home Journey</title>
-      <link>https://mer0x.github.io/blog/blog/smarthome-journey/</link>
+      <link>https://mer0x.github.io/archived/blog/smarthome-journey/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/smarthome-journey/</guid>
+      <guid>https://mer0x.github.io/archived/blog/smarthome-journey/</guid>
       <description>What started as a simple wish to control lights using my phone quickly turned into a fully integrated smart home setup&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/smarthome-journey/featured-sl.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/smarthome-journey/featured-sl.webp" />
     </item>
     
   </channel>

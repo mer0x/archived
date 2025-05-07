@@ -2,461 +2,461 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://mer0x.github.io/blog/tags/</link>
+    <link>https://mer0x.github.io/archived/tags/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@merox.dev (Robert Melcher)</managingEditor>
     <webMaster>hello@merox.dev (Robert Melcher)</webMaster>
     <copyright>© 2025 Robert Melcher</copyright>
-    <atom:link href="https://mer0x.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mer0x.github.io/archived/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CCNA</title>
-      <link>https://mer0x.github.io/blog/tags/ccna/</link>
+      <link>https://mer0x.github.io/archived/tags/ccna/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0300</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/ccna/</guid>
+      <guid>https://mer0x.github.io/archived/tags/ccna/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Networking</title>
-      <link>https://mer0x.github.io/blog/tags/networking/</link>
+      <link>https://mer0x.github.io/archived/tags/networking/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0300</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/networking/</guid>
+      <guid>https://mer0x.github.io/archived/tags/networking/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Professional-Development</title>
-      <link>https://mer0x.github.io/blog/tags/professional-development/</link>
+      <link>https://mer0x.github.io/archived/tags/professional-development/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0300</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/professional-development/</guid>
+      <guid>https://mer0x.github.io/archived/tags/professional-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dual Boot</title>
-      <link>https://mer0x.github.io/blog/tags/dual-boot/</link>
+      <link>https://mer0x.github.io/archived/tags/dual-boot/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/dual-boot/</guid>
+      <guid>https://mer0x.github.io/archived/tags/dual-boot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dual Boot Tutorial</title>
-      <link>https://mer0x.github.io/blog/tags/dual-boot-tutorial/</link>
+      <link>https://mer0x.github.io/archived/tags/dual-boot-tutorial/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/dual-boot-tutorial/</guid>
+      <guid>https://mer0x.github.io/archived/tags/dual-boot-tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Grub</title>
-      <link>https://mer0x.github.io/blog/tags/grub/</link>
+      <link>https://mer0x.github.io/archived/tags/grub/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/grub/</guid>
+      <guid>https://mer0x.github.io/archived/tags/grub/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://mer0x.github.io/blog/tags/linux/</link>
+      <link>https://mer0x.github.io/archived/tags/linux/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/linux/</guid>
+      <guid>https://mer0x.github.io/archived/tags/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Partitioning</title>
-      <link>https://mer0x.github.io/blog/tags/partitioning/</link>
+      <link>https://mer0x.github.io/archived/tags/partitioning/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/partitioning/</guid>
+      <guid>https://mer0x.github.io/archived/tags/partitioning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Secure Boot</title>
-      <link>https://mer0x.github.io/blog/tags/secure-boot/</link>
+      <link>https://mer0x.github.io/archived/tags/secure-boot/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/secure-boot/</guid>
+      <guid>https://mer0x.github.io/archived/tags/secure-boot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ubuntu 25.04</title>
-      <link>https://mer0x.github.io/blog/tags/ubuntu-25.04/</link>
+      <link>https://mer0x.github.io/archived/tags/ubuntu-25.04/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/ubuntu-25.04/</guid>
+      <guid>https://mer0x.github.io/archived/tags/ubuntu-25.04/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ubuntu Installation</title>
-      <link>https://mer0x.github.io/blog/tags/ubuntu-installation/</link>
+      <link>https://mer0x.github.io/archived/tags/ubuntu-installation/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/ubuntu-installation/</guid>
+      <guid>https://mer0x.github.io/archived/tags/ubuntu-installation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>UEFI</title>
-      <link>https://mer0x.github.io/blog/tags/uefi/</link>
+      <link>https://mer0x.github.io/archived/tags/uefi/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/uefi/</guid>
+      <guid>https://mer0x.github.io/archived/tags/uefi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows 11</title>
-      <link>https://mer0x.github.io/blog/tags/windows-11/</link>
+      <link>https://mer0x.github.io/archived/tags/windows-11/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/windows-11/</guid>
+      <guid>https://mer0x.github.io/archived/tags/windows-11/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cloudflare</title>
-      <link>https://mer0x.github.io/blog/tags/cloudflare/</link>
+      <link>https://mer0x.github.io/archived/tags/cloudflare/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/cloudflare/</guid>
+      <guid>https://mer0x.github.io/archived/tags/cloudflare/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Github Actions</title>
-      <link>https://mer0x.github.io/blog/tags/github-actions/</link>
+      <link>https://mer0x.github.io/archived/tags/github-actions/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/github-actions/</guid>
+      <guid>https://mer0x.github.io/archived/tags/github-actions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Github Pages</title>
-      <link>https://mer0x.github.io/blog/tags/github-pages/</link>
+      <link>https://mer0x.github.io/archived/tags/github-pages/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/github-pages/</guid>
+      <guid>https://mer0x.github.io/archived/tags/github-pages/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://mer0x.github.io/blog/tags/hugo/</link>
+      <link>https://mer0x.github.io/archived/tags/hugo/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/hugo/</guid>
+      <guid>https://mer0x.github.io/archived/tags/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Static Site</title>
-      <link>https://mer0x.github.io/blog/tags/static-site/</link>
+      <link>https://mer0x.github.io/archived/tags/static-site/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/static-site/</guid>
+      <guid>https://mer0x.github.io/archived/tags/static-site/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Website Setup</title>
-      <link>https://mer0x.github.io/blog/tags/website-setup/</link>
+      <link>https://mer0x.github.io/archived/tags/website-setup/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/website-setup/</guid>
+      <guid>https://mer0x.github.io/archived/tags/website-setup/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wordpress</title>
-      <link>https://mer0x.github.io/blog/tags/wordpress/</link>
+      <link>https://mer0x.github.io/archived/tags/wordpress/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/wordpress/</guid>
+      <guid>https://mer0x.github.io/archived/tags/wordpress/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Google</title>
-      <link>https://mer0x.github.io/blog/tags/google/</link>
+      <link>https://mer0x.github.io/archived/tags/google/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/google/</guid>
+      <guid>https://mer0x.github.io/archived/tags/google/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Innovation</title>
-      <link>https://mer0x.github.io/blog/tags/innovation/</link>
+      <link>https://mer0x.github.io/archived/tags/innovation/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/innovation/</guid>
+      <guid>https://mer0x.github.io/archived/tags/innovation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Work Environment</title>
-      <link>https://mer0x.github.io/blog/tags/work-environment/</link>
+      <link>https://mer0x.github.io/archived/tags/work-environment/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/work-environment/</guid>
+      <guid>https://mer0x.github.io/archived/tags/work-environment/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Backup</title>
-      <link>https://mer0x.github.io/blog/tags/backup/</link>
+      <link>https://mer0x.github.io/archived/tags/backup/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/backup/</guid>
+      <guid>https://mer0x.github.io/archived/tags/backup/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Disaster Recovery</title>
-      <link>https://mer0x.github.io/blog/tags/disaster-recovery/</link>
+      <link>https://mer0x.github.io/archived/tags/disaster-recovery/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/disaster-recovery/</guid>
+      <guid>https://mer0x.github.io/archived/tags/disaster-recovery/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hetzner</title>
-      <link>https://mer0x.github.io/blog/tags/hetzner/</link>
+      <link>https://mer0x.github.io/archived/tags/hetzner/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/hetzner/</guid>
+      <guid>https://mer0x.github.io/archived/tags/hetzner/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homelab</title>
-      <link>https://mer0x.github.io/blog/tags/homelab/</link>
+      <link>https://mer0x.github.io/archived/tags/homelab/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/homelab/</guid>
+      <guid>https://mer0x.github.io/archived/tags/homelab/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Proxmox</title>
-      <link>https://mer0x.github.io/blog/tags/proxmox/</link>
+      <link>https://mer0x.github.io/archived/tags/proxmox/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/proxmox/</guid>
+      <guid>https://mer0x.github.io/archived/tags/proxmox/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Synology</title>
-      <link>https://mer0x.github.io/blog/tags/synology/</link>
+      <link>https://mer0x.github.io/archived/tags/synology/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/synology/</guid>
+      <guid>https://mer0x.github.io/archived/tags/synology/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Automation</title>
-      <link>https://mer0x.github.io/blog/tags/automation/</link>
+      <link>https://mer0x.github.io/archived/tags/automation/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/automation/</guid>
+      <guid>https://mer0x.github.io/archived/tags/automation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>https://mer0x.github.io/blog/tags/kubernetes/</link>
+      <link>https://mer0x.github.io/archived/tags/kubernetes/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/kubernetes/</guid>
+      <guid>https://mer0x.github.io/archived/tags/kubernetes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Self-Hosting</title>
-      <link>https://mer0x.github.io/blog/tags/self-hosting/</link>
+      <link>https://mer0x.github.io/archived/tags/self-hosting/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/self-hosting/</guid>
+      <guid>https://mer0x.github.io/archived/tags/self-hosting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ansible</title>
-      <link>https://mer0x.github.io/blog/tags/ansible/</link>
+      <link>https://mer0x.github.io/archived/tags/ansible/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/ansible/</guid>
+      <guid>https://mer0x.github.io/archived/tags/ansible/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Terraform</title>
-      <link>https://mer0x.github.io/blog/tags/terraform/</link>
+      <link>https://mer0x.github.io/archived/tags/terraform/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/terraform/</guid>
+      <guid>https://mer0x.github.io/archived/tags/terraform/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Case-Study</title>
-      <link>https://mer0x.github.io/blog/tags/case-study/</link>
+      <link>https://mer0x.github.io/archived/tags/case-study/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/case-study/</guid>
+      <guid>https://mer0x.github.io/archived/tags/case-study/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Vpn</title>
-      <link>https://mer0x.github.io/blog/tags/vpn/</link>
+      <link>https://mer0x.github.io/archived/tags/vpn/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/vpn/</guid>
+      <guid>https://mer0x.github.io/archived/tags/vpn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Guide</title>
-      <link>https://mer0x.github.io/blog/tags/guide/</link>
+      <link>https://mer0x.github.io/archived/tags/guide/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/guide/</guid>
+      <guid>https://mer0x.github.io/archived/tags/guide/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Interview</title>
-      <link>https://mer0x.github.io/blog/tags/interview/</link>
+      <link>https://mer0x.github.io/archived/tags/interview/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/interview/</guid>
+      <guid>https://mer0x.github.io/archived/tags/interview/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Alexa</title>
-      <link>https://mer0x.github.io/blog/tags/alexa/</link>
+      <link>https://mer0x.github.io/archived/tags/alexa/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/alexa/</guid>
+      <guid>https://mer0x.github.io/archived/tags/alexa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homeassistant</title>
-      <link>https://mer0x.github.io/blog/tags/homeassistant/</link>
+      <link>https://mer0x.github.io/archived/tags/homeassistant/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/homeassistant/</guid>
+      <guid>https://mer0x.github.io/archived/tags/homeassistant/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ai</title>
-      <link>https://mer0x.github.io/blog/tags/ai/</link>
+      <link>https://mer0x.github.io/archived/tags/ai/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/ai/</guid>
+      <guid>https://mer0x.github.io/archived/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Server</title>
-      <link>https://mer0x.github.io/blog/tags/server/</link>
+      <link>https://mer0x.github.io/archived/tags/server/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/server/</guid>
+      <guid>https://mer0x.github.io/archived/tags/server/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://mer0x.github.io/blog/tags/tutorial/</link>
+      <link>https://mer0x.github.io/archived/tags/tutorial/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/tutorial/</guid>
+      <guid>https://mer0x.github.io/archived/tags/tutorial/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://mer0x.github.io/blog/tags/security/</link>
+      <link>https://mer0x.github.io/archived/tags/security/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/security/</guid>
+      <guid>https://mer0x.github.io/archived/tags/security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Media-Server</title>
-      <link>https://mer0x.github.io/blog/tags/media-server/</link>
+      <link>https://mer0x.github.io/archived/tags/media-server/</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/tags/media-server/</guid>
+      <guid>https://mer0x.github.io/archived/tags/media-server/</guid>
       <description></description>
       
     </item>

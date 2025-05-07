@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networking on </title>
-    <link>https://mer0x.github.io/blog/categories/networking/</link>
+    <link>https://mer0x.github.io/archived/categories/networking/</link>
     <description>Recent content in Networking on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@merox.dev (Robert Melcher)</managingEditor>
     <webMaster>hello@merox.dev (Robert Melcher)</webMaster>
     <copyright>© 2025 Robert Melcher</copyright>
-    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mer0x.github.io/blog/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mer0x.github.io/archived/categories/networking/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Laboratory Evolution: How It All Started</title>
-      <link>https://mer0x.github.io/blog/blog/homelab-evolution/</link>
+      <link>https://mer0x.github.io/archived/blog/homelab-evolution/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/homelab-evolution/</guid>
+      <guid>https://mer0x.github.io/archived/blog/homelab-evolution/</guid>
       <description>A thorough examination of how a homelab setup has changed over time, from early builds to the infrastructure that exists now. Discover how practical experimenting in a home lab can improve IT abilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/homelab-evolution/featured-beginning.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/homelab-evolution/featured-beginning.webp" />
     </item>
     
     <item>
       <title>Tailscale site-to-site pfSense - Linux</title>
-      <link>https://mer0x.github.io/blog/blog/tailscale-site-to-site/</link>
+      <link>https://mer0x.github.io/archived/blog/tailscale-site-to-site/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://mer0x.github.io/blog/blog/tailscale-site-to-site/</guid>
+      <guid>https://mer0x.github.io/archived/blog/tailscale-site-to-site/</guid>
       <description>I&amp;rsquo;ve decided to implement monitoring for my homelab through a cloud virtual machine. As cloud provider I&amp;rsquo;ve opted for Hetzner&amp;hellip;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/blog/blog/tailscale-site-to-site/featured-sts.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mer0x.github.io/archived/blog/tailscale-site-to-site/featured-sts.webp" />
     </item>
     
   </channel>
