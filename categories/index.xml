@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://merox.dev/categories/</link>
+    <link>https://mer0x.github.io/blog/categories/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@merox.dev (Robert Melcher)</managingEditor>
     <webMaster>hello@merox.dev (Robert Melcher)</webMaster>
     <copyright>© 2025 Robert Melcher</copyright>
-    <atom:link href="https://merox.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mer0x.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Career</title>
-      <link>https://merox.dev/categories/career/</link>
+      <link>https://mer0x.github.io/blog/categories/career/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0300</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/career/</guid>
+      <guid>https://mer0x.github.io/blog/categories/career/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Certification</title>
-      <link>https://merox.dev/categories/certification/</link>
+      <link>https://mer0x.github.io/blog/categories/certification/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0300</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/certification/</guid>
+      <guid>https://mer0x.github.io/blog/categories/certification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://merox.dev/categories/linux/</link>
+      <link>https://mer0x.github.io/blog/categories/linux/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/linux/</guid>
+      <guid>https://mer0x.github.io/blog/categories/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Operating Systems</title>
-      <link>https://merox.dev/categories/operating-systems/</link>
+      <link>https://mer0x.github.io/blog/categories/operating-systems/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/operating-systems/</guid>
+      <guid>https://mer0x.github.io/blog/categories/operating-systems/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutorials</title>
-      <link>https://merox.dev/categories/tutorials/</link>
+      <link>https://mer0x.github.io/blog/categories/tutorials/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/tutorials/</guid>
+      <guid>https://mer0x.github.io/blog/categories/tutorials/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https://merox.dev/categories/devops/</link>
+      <link>https://mer0x.github.io/blog/categories/devops/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/devops/</guid>
+      <guid>https://mer0x.github.io/blog/categories/devops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Infrastructure</title>
-      <link>https://merox.dev/categories/infrastructure/</link>
+      <link>https://mer0x.github.io/blog/categories/infrastructure/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/infrastructure/</guid>
+      <guid>https://mer0x.github.io/blog/categories/infrastructure/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>https://merox.dev/categories/web-development/</link>
+      <link>https://mer0x.github.io/blog/categories/web-development/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/web-development/</guid>
+      <guid>https://mer0x.github.io/blog/categories/web-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tech Culture</title>
-      <link>https://merox.dev/categories/tech-culture/</link>
+      <link>https://mer0x.github.io/blog/categories/tech-culture/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/tech-culture/</guid>
+      <guid>https://mer0x.github.io/blog/categories/tech-culture/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Backup &amp; Recovery</title>
-      <link>https://merox.dev/categories/backup--recovery/</link>
+      <link>https://mer0x.github.io/blog/categories/backup--recovery/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/backup--recovery/</guid>
+      <guid>https://mer0x.github.io/blog/categories/backup--recovery/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cloud &amp; Self-Hosting</title>
-      <link>https://merox.dev/categories/cloud--self-hosting/</link>
+      <link>https://mer0x.github.io/blog/categories/cloud--self-hosting/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/cloud--self-hosting/</guid>
+      <guid>https://mer0x.github.io/blog/categories/cloud--self-hosting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Networking</title>
-      <link>https://merox.dev/categories/networking/</link>
+      <link>https://mer0x.github.io/blog/categories/networking/</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/networking/</guid>
+      <guid>https://mer0x.github.io/blog/categories/networking/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Smart Home</title>
-      <link>https://merox.dev/categories/smart-home/</link>
+      <link>https://mer0x.github.io/blog/categories/smart-home/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>hello@merox.dev (Robert Melcher)</author>
-      <guid>https://merox.dev/categories/smart-home/</guid>
+      <guid>https://mer0x.github.io/blog/categories/smart-home/</guid>
       <description></description>
       
     </item>
