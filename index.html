@@ -183,6 +183,85 @@
 
   
   
+  <style>
+     
+    body {
+      padding-top: 48px;
+    }
+  
+    @media (max-width: 767px) {
+      body {
+        padding-top: 60px;
+      }
+    }
+  
+     
+    .announcement-bar {
+      background-color: #0f172a;
+      color: #e2e8f0;
+      text-align: center;
+      padding: 8px 16px;
+      width: 100%;
+      font-weight: 400;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 9999;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      font-size: 0.9rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      line-height: 1.4;
+      max-height: 72px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+  
+    @media (max-width: 767px) {
+      .announcement-bar {
+        font-size: 0.8rem;
+        padding: 10px 12px;
+        max-height: none;
+        white-space: normal;
+        flex-direction: column;
+        line-height: 1.5;
+        text-align: center;
+      }
+    }
+  
+    .announcement-bar strong {
+      color: #60a5fa;
+      font-weight: 600;
+      margin: 0 0.2em;
+    }
+  
+     
+    a[href="#main-content"] {
+      position: absolute;
+      left: -9999px;
+      top: auto;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+    }
+  
+    a[href="#main-content"]:focus {
+      position: absolute;
+      left: 0;
+      top: 0;
+      padding: 8px 16px;
+      background-color: #e2e8f0;
+      color: #1e293b;
+      z-index: 10000;
+      border-radius: 0 0 8px 8px;
+      font-weight: 500;
+    }
+  </style>
+  
   <meta name="theme-color"/>
   
   
@@ -210,7 +289,13 @@
   
   
 </head><body
+
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32 scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600">
+  
+<div class="announcement-bar">
+  Permanent archive & fallback for <strong>merox.dev</strong>
+</div>
+
   <div id="the-top" class="absolute flex self-center">
     <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
       href="#main-content"><span
@@ -1842,7 +1927,7 @@
 
 
 <div class="mt-10 flex justify-center">
-  <a href="/blog">
+  <a href="https://mer0x.github.io/archived/blog">
     <button
       class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
       Show More
